@@ -1,6 +1,6 @@
 <?php
  echo"
  <h1>abcdef</h1>
- <p>abc is a wonderful project.</p>
+ <p>Abc is a wonderful project.</p>
  "
 >
