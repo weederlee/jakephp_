@@ -1,1 +1,1 @@
-Class HelloWorld -
+Class HiWorld -
