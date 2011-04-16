@@ -11,5 +11,5 @@ date:20110412
 Let me write another sentence. 
 date:20110412
 
-Contont has been changed so as to see the "diff" command. 
+Content has been changed so as to see the "diff" command. 
 date:20110412
